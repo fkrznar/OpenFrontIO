@@ -1,0 +1,63 @@
+{
+  "name": "yugomap",
+  "mapInfoState": {
+    "width": 949,
+    "height": 823,
+    "originalWidth": 949,
+    "originalHeight": 823,
+    "cropData": {
+      "isCropped": false,
+      "cropX": 0,
+      "cropY": 0,
+      "cropWidth": 0,
+      "cropHeight": 0,
+      "originalWidth": 0,
+      "originalHeight": 0
+    },
+    "colorMappings": []
+  },
+  "nations": [
+    {
+      "coordinates": [283, 195],
+      "name": "Croatia",
+      "strength": 2,
+      "flag": "hr"
+    },
+    {
+      "coordinates": [650, 313],
+      "name": "Serbia",
+      "strength": 2,
+      "flag": "rs"
+    },
+    {
+      "coordinates": [179, 123],
+      "name": "Slovenia",
+      "strength": 2,
+      "flag": "si"
+    },
+    {
+      "coordinates": [461, 381],
+      "name": "Bosnia and Herzegovina",
+      "strength": 2,
+      "flag": "ba"
+    },
+    {
+      "coordinates": [777, 706],
+      "name": "North Macedonia",
+      "strength": 2,
+      "flag": "mk"
+    },
+    {
+      "coordinates": [697, 548],
+      "name": "Kosovo",
+      "strength": 2,
+      "flag": "xk"
+    },
+    {
+      "coordinates": [531, 554],
+      "name": "Montenegro",
+      "strength": 2,
+      "flag": "me"
+    }
+  ]
+}
