@@ -98,6 +98,7 @@ export enum GameMapType {
   WorldInverted = "World Inverted", // map-generator/assets/maps/worldinverted/info.json
   YellowSea = "Yellow Sea", // map-generator/assets/maps/yellowsea/info.json
   Yenisei = "Yenisei", // map-generator/assets/maps/yenisei/info.json
+  YugoMap = "yugomap", // map-generator/assets/maps/yugomap/info.json
 }
 
 export type GameMapName = keyof typeof GameMapType;
@@ -844,5 +845,12 @@ export const maps: readonly MapInfo[] = [
     translationKey: "map.yenisei",
     categories: ["asia"],
     multiplayerFrequency: 6,
+  },
+  {
+    id: "YugoMap",
+    type: GameMapType.YugoMap,
+    translationKey: "map.yugomap",
+    categories: ["continental"],
+    multiplayerFrequency: 1,
   },
 ];

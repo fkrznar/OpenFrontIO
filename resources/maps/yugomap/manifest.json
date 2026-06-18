@@ -1,0 +1,105 @@
+{
+  "categories": [
+    "continental"
+  ],
+  "id": "YugoMap",
+  "map": {
+    "height": 820,
+    "num_land_tiles": 327873,
+    "width": 948
+  },
+  "map16x": {
+    "height": 205,
+    "num_land_tiles": 19857,
+    "width": 237
+  },
+  "map4x": {
+    "height": 410,
+    "num_land_tiles": 80929,
+    "width": 474
+  },
+  "mapInfoState": {
+    "colorMappings": [],
+    "cropData": {
+      "cropHeight": 0,
+      "cropWidth": 0,
+      "cropX": 0,
+      "cropY": 0,
+      "isCropped": false,
+      "originalHeight": 0,
+      "originalWidth": 0
+    },
+    "height": 823,
+    "originalHeight": 823,
+    "originalWidth": 949,
+    "width": 949
+  },
+  "multiplayer_frequency": 1,
+  "name": "yugomap",
+  "nations": [
+    {
+      "coordinates": [
+        283,
+        195
+      ],
+      "flag": "hr",
+      "name": "Croatia",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        650,
+        313
+      ],
+      "flag": "rs",
+      "name": "Serbia",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        179,
+        123
+      ],
+      "flag": "si",
+      "name": "Slovenia",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        461,
+        381
+      ],
+      "flag": "ba",
+      "name": "Bosnia and Herzegovina",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        777,
+        706
+      ],
+      "flag": "mk",
+      "name": "North Macedonia",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        697,
+        548
+      ],
+      "flag": "xk",
+      "name": "Kosovo",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        531,
+        554
+      ],
+      "flag": "me",
+      "name": "Montenegro",
+      "strength": 2
+    }
+  ],
+  "translation_key": "map.yugomap"
+}

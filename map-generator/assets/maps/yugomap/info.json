@@ -1,5 +1,9 @@
 {
+  "id":"YugoMap",
   "name": "yugomap",
+  "translation_key": "map.yugomap",
+  "categories" : ["continental"],
+  "multiplayer_frequency": 1,
   "mapInfoState": {
     "width": 949,
     "height": 823,
